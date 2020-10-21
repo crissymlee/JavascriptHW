@@ -1,4 +1,4 @@
-# CHRISTINA LEE
+# CHRISTINA LEE   -- October 2020
 ## JAVASCRIPT HOMEWORK
 
 Below you will find the description of the homework assignment that you will find in the folders attached. 
