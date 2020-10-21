@@ -5,6 +5,8 @@ var tableData = data;
 
 tableData.forEach(displayTable);
 
+//FILTER THE NODE
+
 var process = d3.select("#filter-btn");
 
  process.on("click", function() {
