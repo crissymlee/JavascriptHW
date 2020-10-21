@@ -1,3 +1,13 @@
+# CHRISTINA LEE
+## JAVASCRIPT HOMEWORK
+
+Below you will find the description of the homework assignment that you will find in the folders attached. 
+
+
+
+
+
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
